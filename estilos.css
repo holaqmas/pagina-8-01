@@ -16,3 +16,13 @@ body{
 
 
 }
+.titulo{
+font-size: 50px;
+text-align: center;
+
+}
+.img{
+    height:400px ;
+    width: 400px; 
+    background-image: url("circuitos-eléctricos.jpg");
+}
