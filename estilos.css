@@ -20,11 +20,18 @@ body{
 font-size: 50px;
 text-align: center;
 
-}
-.img{
+600px; 
     height:400px ;
     width: 600px; 
     background-image: url("circuitos-eléctricos.jpg");
-    background-repeat: no-repeat;
+    background-repeat: no-repeat
     float: left;
 }
+.imagen{ 
+      height:400px ;
+      width:  600px; 
+      background-image: url("Independencia\ colonias\ americanas\ mapa\ mental\ .png");
+      background-repeat:no-repeat
+      float: left;
+  }
+  
