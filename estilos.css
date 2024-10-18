@@ -5,28 +5,20 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(255, 255, 255);
+    color: rgb(63, 29, 48);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("desktop-wallpaper-best-website-for-group.jpg");
+    background-image: url("fondo.avif");
 
 
 }
-.titulo{
-font-size: 50px;
-text-align: center;
 
-600px; 
-    height:400px ;
-    width: 600px; 
-    background-image: url("circuitos-eléctricos.jpg");
-    background-repeat: no-repeat
-    float: left;
-}
+
+
 .imagen{ 
       height:400px ;
       width:  600px; 
